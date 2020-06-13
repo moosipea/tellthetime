@@ -1,4 +1,4 @@
 # tellthetime
 minecraft mod to tell the current time
 
-<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download JAR</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/moosipea/tellthetime/master/tellthetime.jar">Download JAR</a>
