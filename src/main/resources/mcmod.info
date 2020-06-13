@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tmtt",
+  "name": "Tell the Time",
+  "description": "A very simple mod to tell you the current time & date",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["moosipea"],
+  "credits": "moosipea",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
